@@ -32,6 +32,6 @@ You'll be working in `main.js`, creating the variables needed with the values as
 
 ### Tasks that use MATH
 
-*Create another variable called mySum. Set it equal to the result of three plus one thousand nine hundred eighteen plus twenty-four + one. Calculate it in code!
-*Create another variable called myProduct. Set it equal to the result of  two hundred thirty-two times forty-three divided by two plus four (the operations should be written in that order!). Calculate it in code!
-*Create another variable called heightAndAge. Set it equal to the sum of your mental age and height. Calculate it in code!
+* Create another variable called mySum. Set it equal to the result of three plus one thousand nine hundred eighteen plus twenty-four + one. Calculate it in code!
+* Create another variable called myProduct. Set it equal to the result of  two hundred thirty-two times forty-three divided by two plus four (the operations should be written in that order!). Calculate it in code!
+* Create another variable called heightAndAge. Set it equal to the sum of your mental age and height. Calculate it in code!
