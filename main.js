@@ -2,8 +2,30 @@
  * YOUR CODE HERE *
  ******************/
 
+const myFirstName = 'Wilson';
 
- 
+const myLastName = 'Chen';
+
+const myBestFriend = 'Charles';
+
+const mySentence = myFirstName + myLastName + myBestFriend;
+
+const myFavoriteNum = 6;
+
+const myMentalAge = 6;
+
+const myHeight = 66;
+
+const myFavoriteYear = 1987;
+
+const mySum = 3 + 1918 + 24 + 1;
+
+const myProduct = 232 * 43 / 2 +4;
+
+const myHeightAndAge = myMentalAge + myHeight;
+
+
+
 
 
 /*********************************************************************************************************************
